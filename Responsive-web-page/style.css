@@ -1,0 +1,145 @@
+
+/* START EXAMPLES */
+
+.myrows{
+  border: 3px solid green;
+  padding: 5px;
+}
+
+.mycolumns{
+  border: 3px solid red;
+}
+
+.mycontainers{
+  background-color:aqua;
+}
+
+.myheader{
+  background-color: yellow;
+}
+
+/* END  EXAMPLES */
+ 
+/* START HEADER */
+
+#topHeader{
+  background-color: ghostwhite;
+  border: 1px solid silver;
+}
+
+#topheader a{
+  color: black;
+  font-size: 0.89rem;
+  font-weight:600;
+}
+
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+nav ul li a{
+  font-size: 1.1rem;
+  font-weight:600;
+}
+
+/* END HEADER */
+
+
+/* START FOOTER */
+
+.full-footer{
+  background-color: #34495e;
+
+}
+
+.top-footer p{
+color: white;
+
+}
+
+.top-footer h3{
+color: white;
+
+}
+
+.top-footer a{
+color: white;
+font-weight:600;
+}
+
+.bottom-footer{
+  background-color:rgb(6, 32, 82);
+}
+
+.bottom-footer p{
+ color: white;
+}
+
+/* END FOOTER */
+
+/* START HOMEPAGE */
+
+.top-hero-section{
+  background-color:#3498db;
+ color: white;
+}
+
+.top-hero-section a{
+ color: white;
+font-weight:600;
+
+
+}
+
+.qualities-img{
+  width: 2000px;
+}
+
+.requirements-section{
+  background-color:#3498db;
+  
+  color:white;
+}
+
+.home-newsletter{
+  background-color:#3498db;
+
+  color:white;
+}
+
+.home-newsletter .form-control{
+  height: 50px;
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+  min-height: 50px;
+  background-color: blue;
+  border-radius: 0 20px 20px 0;
+  color:white;
+}
+
+.clients-section{
+  background-color: silver;
+
+}
+/* END HOMEPAGE */
+
+/*  about us*/
+.breadcrumbs-section{
+  background-color:#e9ecef;
+}
+
+/*  web design*/
+
+.bar{
+   border-radius: 17px;
+   border: 2px solid slategray;
+  color:white;
+  font-weight:600;
+  font-size: 1.1rem;
+
+}
+
